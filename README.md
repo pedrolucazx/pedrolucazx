@@ -2,7 +2,7 @@
 
 - 🌱 Estudando HTML/CSS/JavaScript juntamente com ReactJS. Meu objetivo é continuar progredindo em JavaScript, para me tornar um Desenvolvedor Fullstack JavaScript MERN | MongoDB | Express | React | NodeJS.
 
- <div>
+ <div align="center">
   <a href="https://github.com/pedrolucazx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucazx&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucazx&layout=compact&langs_count=7&theme=onedark"/>
