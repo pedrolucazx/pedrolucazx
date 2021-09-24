@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Pedro Lucas 
 
-- 🌱 Estudando HTML/CSS/JavaScript juntamente com ReactJS. Meu objetivo é continuar progredindo em JavaScript, para me tornar um Desenvolvedor Fullstack JavaScript MERN | MongoDB | Express | React | NodeJS.
+- 🌱 Eu sou Pedro Lucas, estou cursando Analise e Desenvolvimento de Sistema, na Universidade de Fortaleza (UNIFOR). Eu gosto muito de buscar conhecimento, descobrir que exitem diversos conteúdos que ainda não sei, mais empolgado em aprender-los eu fico, principalmente na área de tecnologia. Estudo com frequência JavaScript e seu ecossistema, porém sou completamente flexível em aprender uma nova linguagem ou tecnologia.
 
  <div align="center">
   <a href="https://github.com/pedrolucazx">
