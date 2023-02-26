@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Pedro Lucas 
 
-- 🌱 Eu sou Pedro Lucas, estou cursando Analise e Desenvolvimento de Sistema, na Universidade de Fortaleza (UNIFOR). Eu gosto muito de buscar conhecimento, descobrir que exitem diversos conteúdos que ainda não sei, mais empolgado em aprender-los eu fico, principalmente na área de tecnologia. Estudo com frequência JavaScript e seu ecossistema, porém sou completamente flexível em aprender uma nova linguagem ou tecnologia.
+- Sou um desenvolvedor Full Stack com mais de um ano de experiência na área. Com uma ampla gama de conhecimentos adquiridos ao longo dos projetos que participei, escolhi me especializar em backend com Node.js, com o objetivo de aperfeiçoar ainda mais minhas habilidades nesta área.
 
  <div align="center">
   <a href="https://github.com/pedrolucazx">
