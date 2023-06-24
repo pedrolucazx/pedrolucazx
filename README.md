@@ -6,6 +6,7 @@
   <a href="https://github.com/pedrolucazx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucazx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucazx&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+   [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64676e4e410780a6d9b909f8?variant=dark)](https://roadmap.sh)
 </div>  
 <div align="center">
  <br>
