@@ -1,11 +1,7 @@
 # 💫 About Me:
-Olá! Eu sou Pedro Lucas, desenvolvedor Full Stack com experiência desde novembro de 2021 na Supera Inovação em Tecnologia. Minha trajetória é marcada pela proficiência técnica em React, React Native, Node.js, Angular e Sequelize, além da habilidade de integrar soluções criativas em projetos complexos. Sou ávido por aprender e me manter atualizado em um cenário de rápido desenvolvimento tecnológico.
-
-Focado em aprimorar minhas habilidades, estou voltando meu olhar para a especialização em backend, almejo mergulhar profundamente em tecnologias como Node.js, bancos de dados e arquitetura de sistemas. Busco oportunidades empolgantes para contribuir significativamente em soluções backend inovadoras.
+Olá! Eu sou Pedro Lucas, desenvolvedor Full Stack com experiência desde novembro de 2021 na Supera Inovação em Tecnologia. Minha trajetória é marcada pela proficiência técnica em React, React Native, Node.js, Angular e Sequelize.
 <hr />
-Hi, I'm Pedro Lucas, a Full Stack developer with experience since November 2021 at Supera Inovação em Tecnologia. My career is marked by technical proficiency in React, React Native, Node.js, Angular and Sequelize, as well as the ability to integrate creative solutions into complex projects. I'm eager to learn and keep up to date in a rapidly developing technological landscape.
-
-Focused on improving my skills, I'm turning my attention to specializing in the backend. With experience in challenging projects, I aim to dive deep into technologies such as Node.js, databases and systems architecture. I'm looking for exciting opportunities to contribute significantly to innovative backend solutions.
+Hi, I'm Pedro Lucas, a Full Stack developer with experience since November 2021 at Supera Inovação em Tecnologia. My career is marked by technical proficiency in React, React Native, Node.js, Angular and Sequelize.
 
 # 📊 GitHub Stats:
 <div align="center">
