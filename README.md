@@ -5,7 +5,7 @@ Hi! I'm Pedro Lucas, a Software Engineer with over 4 years of experience buildin
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrolucazx&theme=vision-friendly-dark&hide_border=true"/>
+  <img alt="GitHub Streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrolucazx&theme=vision-friendly-dark&hide_border=true&v=1"/>
 </div>
 
 # 💻 Tech Stack:
