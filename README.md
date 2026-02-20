@@ -5,8 +5,8 @@ Hi! I'm Pedro Lucas, a Software Engineer with over 4 years of experience buildin
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucazx&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
-</div>  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrolucazx&theme=vision-friendly-dark&hide_border=true"/>
+</div>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
