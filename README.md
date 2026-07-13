@@ -1,7 +1,8 @@
 # 💫 About Me:
-Olá! Eu sou Pedro Lucas, Engenheiro de Software com mais de 4 anos de experiência construindo aplicações end-to-end e APIs escaláveis. Atualmente, meu foco principal é a arquitetura Backend (Node.js/Java) e a Qualidade de Software por meio de testes automatizados, atuando no desenvolvimento de sistemas de grande porte na Supera Inovação. Sou estudante de Ciência da Computação na UFC e um grande entusiasta de código limpo.
+Olá! Eu sou Pedro Lucas, Engenheiro de Software com mais de 4 anos de experiência construindo aplicações end-to-end e APIs escaláveis (Node.js, TypeScript, Java). Mais recentemente, atuei na Supera Inovação em Tecnologia em sistemas de grande porte, incluindo integrações financeiras (Celcoin BaaS, webhooks PIX) — hoje meu foco é arquitetura Backend e Qualidade de Software via testes automatizados, com interesse especial em fintech e sistemas de pagamento. Sou estudante de Ciência da Computação na Universidade Federal do Ceará, entusiasta de código limpo, e estou aberto a novas oportunidades como desenvolvedor Backend/Fullstack.
 <hr />
-Hi! I'm Pedro Lucas, a Software Engineer with over 4 years of experience building end-to-end applications and scalable APIs. Currently, my main focus is Backend architecture (Node.js/Java) and Software Quality through automated testing, working on large-scale systems development at Supera Inovação. I am a Computer Science student at UFC and a huge clean code enthusiast.
+Hi! I'm Pedro Lucas, a Software Engineer with over 4 years of experience building end-to-end applications and scalable APIs (Node.js, TypeScript, Java). Most recently, I worked at Supera Inovação em Tecnologia on large-scale systems, including financial integrations (Celcoin BaaS, PIX webhooks) — today my focus is Backend architecture and Software Quality through automated testing, with a particulyment systems. I'm aComputer Science studentast, and currently open
+to new opportunities as .
 
 # 📊 GitHub Stats:
 <div align="center">
